@@ -1,0 +1,30 @@
+@media screen and (max-width: 1160px) {
+    .main-block{
+        flex-wrap: wrap;
+        gap: 100px;
+    }
+    .first-img{
+        width: 569px;
+        height: 593px;
+    }
+    .wrap{
+        flex-wrap: wrap-reverse;
+        gap: 80px;
+    }
+    .cards{
+        flex-wrap: wrap;
+    }
+    .first-part{
+        display: flex;
+    }
+    .second-part{
+        display: flex;
+    }
+    .wrap2{
+        flex-wrap: wrap-reverse;
+    }
+    .wrap3{
+        flex-wrap: wrap;
+        gap: 50px;
+    }
+}
